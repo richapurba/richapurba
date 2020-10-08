@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, there. 👋 Nice to have you here.
+I am a sister, university student, and now actively looking for new opportunity as a Software Front End Engineer. I graduated from high school in 2017, and I've spent the last year as a Business Consultant.
 
 <!--
 **richapurba/richapurba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
