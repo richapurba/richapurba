@@ -4,7 +4,7 @@ I am a sister, university student, and now actively looking for new opportunity 
 📚 I'm currently working towards my BSc. in Computer Science degree from University of the People.
 💎 The most precious thing in this world for me is my family. I have two brothers and a sister.
 🏆 The greatest achievement of me is getting love from my late mother. The worst is I ever made her cry for my faults.
-🔫 I'm using VS Code as my gun, StackOverFlow and my coding skills as the peluru, and my brain as the hand that will lead the gun to fire.
+🔫 I'm using VS Code as my gun, StackOverFlow and my coding skills as the bullets, and my brain as the hand that will lead the gun to fire.
 
 😲 FUN FACTS ABOUT ME 😲
 ☑️ My most favourite food is "Nasi Goreng"🍽
