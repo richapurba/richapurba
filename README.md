@@ -1,11 +1,11 @@
 ### Hello, there. 👋 Nice to have you here.<br/>
-I am a sister, university student ambassador, and now actively looking for new opportunity as a Software Front End Engineer. I graduated from high school in 2017, and I've spent the last year as a business consultant.<br/>
+I am a sister, university student ambassador, and now actively looking for new opportunity as a front end developer. I graduated from high school in 2017; and I've spent the last year as a business consultant. Being a coder doesn't mean I have the same lifestyle with others. I have a lot of patience, that's why I'm using windows😂 Also, I'm an extrovert, I really love networking and team building. To know more about me, just simply have a talk with me or you can go trought my website down here.<br/><br/>
+[![Website](https://img.shields.io/website?label=richapurba.github.io&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
 
 📚 I'm currently working towards my BS in Computer Science degree from University of the People<br/>
-💎 I always want to learn something new. 🔬 In fact, I'm a crazy person who always curios about science<br/>
+💎 I always want to learn something new. 🔬 In fact, I'm a crazy person who always curious about science<br/>
 🏆 I really love reading books. I have tons of them in my room and read them daily 📖<br/>
-🔫 I'm using VS Code as my gun, StackOverFlow and my coding skills as the bullets, and my brain as the hand that will lead the gun to fire<br/><br/>
-📫 You can reach me through every link that I already given below
+🔫 I'm using VS Code as my gun, StackOverFlow and my coding skills as the bullets, and my brain as the hand that will lead the gun to fire<br/>
 
 [<img align="left" alt="richapurba.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://richapurba.github.io)
 [<img align="left" alt="richapurba | Google" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />](mailto:richathorne@gmail.com)
@@ -14,6 +14,8 @@ I am a sister, university student ambassador, and now actively looking for new o
 [<img align="left" alt="richapurba | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/richaulivia)
 
 <br />
+
+---
 
 ### Fun facts about me 😲<br/>
 ☑️ I know how to code for the first time because of my old junior high school book<br/>
