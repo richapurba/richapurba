@@ -1,9 +1,9 @@
 ### Hello, there. 👋 Nice to have you here.<br/>
 I am a sister, university student, and now actively looking for new opportunity as a Software Front End Engineer. I graduated from high school in 2017, and I've spent the last year as a Business Consultant.<br/>
 
-📚 I'm currently working towards my BSc. in Computer Science degree from University of the People<br/>
-💎 I always want to learn something new.🔬 In fact, I'm a crazy person who always curios about science<br/>
-🏆 I really love reading books. I have tons of them in my room and read them daily📖<br/>
+📚 I'm currently working towards my BS in Computer Science degree from University of the People<br/>
+💎 I always want to learn something new. 🔬 In fact, I'm a crazy person who always curios about science<br/>
+🏆 I really love reading books. I have tons of them in my room and read them daily 📖<br/>
 🔫 I'm using VS Code as my gun, StackOverFlow and my coding skills as the bullets, and my brain as the hand that will lead the gun to fire<br/><br/>
 📫 You can reach me through every link that I already given below
 
@@ -23,7 +23,7 @@ I am a sister, university student, and now actively looking for new opportunity 
 ### Favourite quotes
 - 🌱 HURT in private, HEAL in silence, SHINE in public
 - 🔭 If you are the smartest in the room, then you must be in the wrong room.
-- 👯 If you can't explain it to a 6-year-old kid, then you must not really understand it
+- 👯 If you can't explain something to a 6-year-old kid, then you must not really understand it
 
 ### Languages and Tools:
 
