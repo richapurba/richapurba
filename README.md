@@ -1,5 +1,5 @@
 ### Hello, there. 👋 Nice to have you here.<br/>
-I am a sister, university student, and now actively looking for new opportunity as a Software Front End Engineer. I graduated from high school in 2017, and I've spent the last year as a Business Consultant.<br/>
+I am a sister, university student ambassador, and now actively looking for new opportunity as a Software Front End Engineer. I graduated from high school in 2017, and I've spent the last year as a business consultant.<br/>
 
 📚 I'm currently working towards my BS in Computer Science degree from University of the People<br/>
 💎 I always want to learn something new. 🔬 In fact, I'm a crazy person who always curios about science<br/>
@@ -15,7 +15,7 @@ I am a sister, university student, and now actively looking for new opportunity 
 
 <br />
 
-### 😲 Fun facts about me 😲<br/>
+### Fun facts about me 😲<br/>
 ☑️ I know how to code for the first time because of my old junior high school book<br/>
 ☑️ Besides of technology, I really love architecture things. I love to design my dream house from exterior to its interior<br/>
 ☑️ I can't swim at the water 🏊 , but if you ask me to swim on the ground, well, absolutely I can 😂<br/>
@@ -42,7 +42,7 @@ I am a sister, university student, and now actively looking for new opportunity 
 
 ---
 
-### 📕 Latest Blog Posts
+### Latest Blog Posts 📕
 
 <!-- BLOG-POST-LIST:START -->
 - [Dark Mode In 10 Seconds](https://richapurba.hashnode.dev)
