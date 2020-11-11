@@ -9,7 +9,7 @@ I am a sister, university student ambassador, and now actively looking for new o
 
 [<img align="left" alt="richapurba.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://richapurba.github.io)
 [<img align="left" alt="richapurba | Google" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />](mailto:richathorne@gmail.com)
-[<img align="left" alt="richapurba | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://t.co/richapurba)
+[<img align="left" alt="richapurba | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.co/richapurba)
 [<img align="left" alt="richapurba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ichapurba)
 [<img align="left" alt="richapurba | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/richaulivia)
 
