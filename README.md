@@ -18,14 +18,13 @@ I am a sister, university student ambassador, and now actively looking for new o
 ---
 
 ### Fun facts about me 😲<br/>
-☑️ I know how to code for the first time because of my old junior high school book<br/>
 ☑️ Besides of technology, I really love architecture things. I love to design my dream house from exterior to its interior<br/>
 ☑️ I can't swim at the water 🏊 , but if you ask me to swim on the ground, well, absolutely I can 😂<br/>
 
 ### Favourite quotes
 - 🌱 HURT in private, HEAL in silence, SHINE in public
-- 🔭 If you are the smartest in the room, then you must be in the wrong room.
-- 👯 If you can't explain something to a 6-year-old kid, then you must not really understand it
+- 🔭 If you are the SMARTEST one in the room, then you must be in the WRONG room.
+- 👯 If you CAN'T EXPLAIN something to a 6-year-old kid, then you must NOT really understand it
 
 ### Languages and Tools:
 
