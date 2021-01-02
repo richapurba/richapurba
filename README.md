@@ -4,7 +4,7 @@ I am a sister, university student ambassador, and now actively looking for new o
 
 📚 I'm currently working towards my BS in Computer Science degree from University of the People<br/>
 💎 I always want to learn something new. 🔬 In fact, I'm a crazy person who always curious about almost everything<br/>
-🏆 I really love reading books. I have tons of them in my room and read them daily 📖<br/>
+📖 I really love reading books. I have tons of them in my room and read them daily<br/>
 🔫 I'm using VS Code as my gun, StackOverFlow and my coding skills as the bullets, and my brain as the hand that will lead the gun to fire<br/>
 
 [<img align="left" alt="richapurba.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://richapurba.github.io)
