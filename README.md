@@ -1,5 +1,5 @@
 ### Hello, there. 👋 Nice to have you here.<br/>
-I am a sister, university student ambassador, and now actively looking for new opportunity as a front end developer. I graduated from high school in 2017; and I've spent the last year as a business consultant. Being a coder doesn't mean I have the same lifestyle with others. I have a lot of patience, that's why I'm using windows😂 Also, I'm an extrovert, I really love networking and team building. To know more about me, just simply have a talk with me or you can go trought my website down here.<br/><br/>
+I am a sister, university student ambassador, and now actively looking for new opportunity as a front end developer. I graduated from high school in 2017; and I've spent the last year as a business consultant. I have a lot of patience, that's why I'm using windows😂 Also, I'm an extrovert, I really love networking and team building. To know more about me, just simply have a talk with me or you can go trought my website down here.<br/><br/>
 [![Website](https://img.shields.io/website?label=richa.rf.gd&style=for-the-badge&url=https%3A%2F%2Fricha.rf.gd)](https://richa.rf.gd)
 
 📚 I'm currently working towards my BS in Computer Science degree from University of the People<br/>
