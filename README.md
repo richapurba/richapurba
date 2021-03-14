@@ -1,5 +1,5 @@
 ### Hello, there. 👋 Nice to have you here.<br/>
-I am a sister, university student ambassador, and now actively looking for new opportunity as a front end developer. I graduated from high school in 2017; and I've spent the last year as a business consultant. I have a lot of patience, that's why I'm using windows😂 Also, I'm an extrovert, I really love networking and team building. To know more about me, just simply have a talk with me or you can go trought my website down here.<br/><br/>
+I am a sister, university student ambassador, and a front end developer from Indonesia. Currently looking for a front end opportunity. I'm looking to collaborate with great developers where I can test my skills and upgrade it. I have a lot of patience, that's why I'm using windows😂 Also, I'm an extrovert, I really love networking and team building. To know more about me, just simply have a talk with me or you can go trought my website down here.<br/><br/>
 [![Website](https://img.shields.io/website?label=richapurba.github.io&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
 
 📚 I'm currently working towards my BS in Computer Science degree from University of the People<br/>
@@ -30,12 +30,12 @@ I am a sister, university student ambassador, and now actively looking for new o
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://richapurba.github.io)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://richapurba.github.io)
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />](https://richapurba.hashnode.dev)
+[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />](https://richapurba.github.io)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://richapurba.github.io)
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://richapurba.github.io)
 [<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />](https://richapurba.github.io)
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://richapurba.github.io)
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />](https://richapurba.github.io)
+[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />](https://richapurba.github.io)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://richapurba.github.io)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://richapurba.github.io)
 [<img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />](https://richapurba.github.io)
