@@ -26,19 +26,16 @@ I am an Astrophysicist and Data Scientist from Indonesia. Currently looking for 
 
 
 
-
-📚 I'm currently working towards my BEng in Robotics degree from German International Hochschule in Applied Science<br/>
-💎 I always want to learn something new. 🔬 In fact, I'm a crazy person who always curious about almost everything<br/>
+❤️‍🩹 I'm proud to be a Christian. Jesus had chose me to become a scientist. Yes, I saw Him. I did..<br/>
+📚 I'm currently working towards my BEng in Robotics degree from German International University<br/>
+💎 I'm always eager to learn something new. 🔬 In fact, I'm a crazy person who always curious about almost everything<br/>
 📖 I really love reading books. I have tons of them in my room and read them daily<br/>
+🏊 I can't swim at the water, but if you ask me to swim on the ground, well, absolutely I can 😂<br/>
 
 
 <div id="header" align="center">
     <img src="img/Polaroid.png" width="150"/>
 </div>
-
-
-☑️ I'm proud to be a christian. Jesus have chose me to become a scientist. Yes, I saw Him. I did..<br/>
-☑️ I can't swim at the water 🏊 , but if you ask me to swim on the ground, well, absolutely I can 😂<br/>
 
 
 ### Languages and Tools:
