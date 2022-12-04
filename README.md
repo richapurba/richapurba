@@ -1,3 +1,9 @@
+<div id="header" align="center">
+
+  <img src="https://media.giphy.com/media/Wkze4vrMfeNiw/giphy.gif" width="100"/>
+
+</div>
+
 ### Hello, there. 👋 Nice to have you here.<br/>
 I am a sister, university student, and a Data Scientist from Indonesia. Currently looking for a data science opportunity. I'm looking to collaborate with great developers where I can test my skills and upgrade it. I'm using my tablet that connected to a portable keyboard just to code. Also, I'm an ambivert. To know more about me, just simply have a talk with me or you can go trought my website down here.<br/><br/>
 [![Website](https://img.shields.io/website?label=richapurba.github.io&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
