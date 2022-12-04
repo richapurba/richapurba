@@ -30,15 +30,15 @@ I am an Astrophysicist and Data Scientist from Indonesia. Currently looking for 
 📚 I'm currently working towards my BEng in Robotics degree from German International University<br/>
 💎 I'm always eager to learn something new. 🔬 In fact, I'm a crazy person who always curious about almost everything<br/>
 📖 I really love reading books. I have tons of them in my room and read them daily<br/>
-🏊 I can't swim at the water, but if you ask me to swim on the ground, well, absolutely I can 😂<br/>
+🏊 I can't swim at the water; but if you ask me to swim on the ground, well, absolutely I can 😂<br/>
 
 
 <div id="header" align="center">
-    <img src="img/Polaroid.png" width="150"/>
+    <img src="img/Polaroid.png" width="200"/>
 </div>
 
 
-### Languages and Tools:
+### Languages and Tools 💻 :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -55,6 +55,11 @@ I am an Astrophysicist and Data Scientist from Indonesia. Currently looking for 
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### Quick Tip 💡:
+Don't forget to `thank God` for this brand new day. Do as simple as taking `one minute break` to `pray`; show Him your gratitude. Have no idea what to pray? Just focus on God and read this in silence..
+
+`Heavenly Father, hallowed be thy name. I humbled myself before You to thank you for this brand-new day that You've given to me. Also for the breath in my lung, the food on the table, people to live with, a place that we can call home, our job, the money, and everything that You've given to me. You've showed me a great mercy and love, therefore I also show You my gratitude. I hope You like it, Lord. In Jesus name, amen.`
 
 
 ---
