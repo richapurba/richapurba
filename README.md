@@ -1,7 +1,11 @@
-<div id="header" align="center">
-
-  <img src="https://media.giphy.com/media/Wkze4vrMfeNiw/giphy.gif" width="100"/>
-
+<div align="centre">
+  <div id="name" align="left">
+    <h1>RICHA</h1>
+    <p class="job" style="color: #00008b; font-size: 10px;">Data Scientist | Astrophysicist</p>
+  </div>
+  <div id="header" align="right">
+    <img src="https://media.giphy.com/media/Wkze4vrMfeNiw/giphy.gif" width="200"/>
+  </div>
 </div>
 
 ### Hello, there. 👋 Nice to have you here.<br/>
