@@ -69,6 +69,7 @@ Don't forget to `thank God` for this brand new day. Do as simple as taking `one 
 `Heavenly Father, hallowed be thy name. I humbled myself before You to thank you for this brand-new day that You've given to me. Also for the breath in my lung, the food on the table, people to live with, a place that we can call home, our job, the money, and everything that You've given to me. You've showed me a great mercy and love, therefore I also show You my gratitude. I hope You like it, Lord. In Jesus name, amen.`
 
 No matter what your religion is, or maybe if you're an atheist; remember, Jesus belongs to everyone 😊
+
 ---
 
 <div id="footer" align="right">
