@@ -21,19 +21,20 @@
 </div>
 
 ### Hello, there. 👋 Nice to have you here.<br/>
-I am a sister, university student, and a Data Scientist from Indonesia. Currently looking for a data science opportunity. I'm looking to collaborate with great developers where I can test my skills and upgrade it. I'm using my tablet that connected to a portable keyboard just to code. Also, I'm an ambivert. To know more about me, just simply have a talk with me or you can go trought my website down here.<br/><br/>
+I am an Astrophysicist and Data Scientist from Indonesia. Currently looking for a data science opportunity. I'm looking to collaborate with great developers where I can test my skills and upgrade it. I'm using my tablet that connected to a portable keyboard to code. Also, I'm an introvert. To know more about me, just simply have a talk with me or you can go trought my website down here.<br/><br/>
 [![Website](https://img.shields.io/website?label=richapurba.github.io&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
+
+
+
 
 📚 I'm currently working towards my BEng in Robotics degree from German International Hochschule in Applied Science<br/>
 💎 I always want to learn something new. 🔬 In fact, I'm a crazy person who always curious about almost everything<br/>
 📖 I really love reading books. I have tons of them in my room and read them daily<br/>
 
----
-
 ### Fun facts about me 😲<br/>
 
 <div id="header" align="center">
-    <img src="img/Polaroid.png" width="300"/>
+    <img src="img/Polaroid.png" width="150"/>
 </div>
 
 
