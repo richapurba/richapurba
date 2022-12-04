@@ -28,24 +28,12 @@ I am a sister, university student, and a Data Scientist from Indonesia. Currentl
 💎 I always want to learn something new. 🔬 In fact, I'm a crazy person who always curious about almost everything<br/>
 📖 I really love reading books. I have tons of them in my room and read them daily<br/>
 
-[<img align="left" alt="richapurba.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://richapurba.github.io)
-[<img align="left" alt="richapurba | Google" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />](mailto:richaulivia@gmail.com)
-[<img align="left" alt="richapurba | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.co/richapurba)
-[<img align="left" alt="richapurba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/richapurba)
-[<img align="left" alt="richapurba | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/richaulivia)
-
-<br />
-
 ---
 
 ### Fun facts about me 😲<br/>
 ☑️ I'm proud to be a christian. Jesus have chose me to become a scientist. Yes, I saw Him. I did..<br/>
 ☑️ I can't swim at the water 🏊 , but if you ask me to swim on the ground, well, absolutely I can 😂<br/>
 
-### Favourite quotes
-- 🌱 HURT in private, HEAL in silence, SHINE in public
-- 🔭 If you are the SMARTEST one in the room, then you must be in the WRONG room.
-- 👯 If you CAN'T EXPLAIN something to a 6-year-old kid, then you must NOT really understand it
 
 ### Languages and Tools:
 
@@ -59,17 +47,6 @@ I am a sister, university student, and a Data Scientist from Indonesia. Currentl
 
 ---
 
-<!--
-**richapurba/richapurba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="footer" align="right">
+    <img src="img/sincerely.png" width="200"/>
+</div>
