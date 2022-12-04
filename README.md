@@ -1,11 +1,23 @@
-<div align="centre">
-  <div id="name" align="left">
-    <h1>RICHA</h1>
-    <p class="job" style="color: #00008b; font-size: 10px;">Data Scientist | Astrophysicist</p>
-  </div>
-  <div id="header" align="right">
+<div id="header" align="center">
     <img src="https://media.giphy.com/media/Wkze4vrMfeNiw/giphy.gif" width="200"/>
-  </div>
+</div>
+<div id="name" align="center">
+    <h1>RICHA PURBA</h1>
+    <code>Data Scientist | Astrophysicist</code>
+</div>
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/richapurba">
+    <img src="https://img.shields.io/badge/LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://instagram.com/richaulivia">
+    <img src="https://img.shields.io/badge/Instagram-f5169c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto:richaulivia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-c7161f?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
+  </a>
+  <a href="https://t.co/richaulivia">
+    <img src="https://img.shields.io/badge/Telegram-2a92fa?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </div>
 
 ### Hello, there. 👋 Nice to have you here.<br/>
