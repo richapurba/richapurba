@@ -31,6 +31,12 @@ I am a sister, university student, and a Data Scientist from Indonesia. Currentl
 ---
 
 ### Fun facts about me 😲<br/>
+
+<div id="header" align="center">
+    <img src="img/Polaroid.png" width="300"/>
+</div>
+
+
 ☑️ I'm proud to be a christian. Jesus have chose me to become a scientist. Yes, I saw Him. I did..<br/>
 ☑️ I can't swim at the water 🏊 , but if you ask me to swim on the ground, well, absolutely I can 😂<br/>
 
