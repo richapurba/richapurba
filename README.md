@@ -6,23 +6,23 @@
     <code>Data Scientist | Astrophysicist</code>
 </div>
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/richapurba">
+  <a target="_blank" href="https://linkedin.com/in/richapurba">
     <img src="https://img.shields.io/badge/LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://instagram.com/richaulivia">
+  <a target="_blank" href="https://instagram.com/richaulivia">
     <img src="https://img.shields.io/badge/Instagram-f5169c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="mailto:richaulivia@gmail.com">
+  <a target="_blank" href="mailto:richaulivia@gmail.com">
     <img src="https://img.shields.io/badge/Email-c7161f?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
-  <a href="https://t.co/richaulivia">
+  <a target="_blank" href="https://t.co/richaulivia">
     <img src="https://img.shields.io/badge/Telegram-2a92fa?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
 ### Hello, there. 👋 Nice to have you here.<br/>
 I am an Astrophysicist and Data Scientist from Indonesia. Currently looking for a data science opportunity. I'm looking to collaborate with great developers where I can test my skills and upgrade it. I'm using my tablet that connected to a portable keyboard to code. Also, I'm an introvert. To know more about me, just simply have a talk with me or you can go trought my website down here.<br/><br/>
-[![Website](https://img.shields.io/website?label=richapurba.github.io&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
+[![Website](https://img.shields.io/website?label=richapurba.com&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
 
 
 
