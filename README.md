@@ -32,17 +32,21 @@ I am an Astrophysicist and Data Scientist from Indonesia. Currently looking for 
 📖 I really love reading books. I have tons of them in my room and read them daily<br/>
 🏊 I can't swim at the water; but if you ask me to swim on the ground, well, absolutely I can 😂<br/>
  
-<br>
-<br>
+
+
 <a href="#">
     <img align="left" src="img/kolase.png" width="300"/>
 </a>
 
-### Data Science Project List 📂 :
+<br>
+<br>
+
+### Project List 📂 :
 [![Website](https://img.shields.io/website?label=auto-Office&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
 [![Website](https://img.shields.io/website?label=customer-Churn&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
 [![Website](https://img.shields.io/website?label=Google-Clone&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
 [![Website](https://img.shields.io/website?label=drone-programming&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
+
 
 ### Languages and Tools 💻 :
 
@@ -62,6 +66,11 @@ I am an Astrophysicist and Data Scientist from Indonesia. Currently looking for 
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+<br>
+<br>
+<br>
+<br>
 
 ### Quick Tip 💡:
 Don't forget to `thank God` for this brand new day. Do as simple as taking `one minute break` to `pray`; show Him your gratitude. Have no idea what to pray? Just focus on God and read this in silence..
