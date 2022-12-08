@@ -35,7 +35,7 @@ I am an Astrophysicist and Data Scientist from Indonesia. Currently looking for 
 <br>
 <br>
 <a href="#">
-    <img align="left" src="img/Polaroid.png" width="300"/>
+    <img align="left" src="img/kolase.png" width="300"/>
 </a>
 
 ### Data Science Project List 📂 :
