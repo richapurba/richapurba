@@ -19,11 +19,11 @@
     <img src="https://img.shields.io/badge/Telegram-2a92fa?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+<br>
 
 ### Hello, there. 👋 Nice to have you here.<br/>
 I am an Astrophysicist and Data Scientist from Indonesia. Currently looking for a data science opportunity. I'm looking to collaborate with great developers where I can test my skills and upgrade it. Currently, I'm using a tablet that connected to a portable keyboard to code. Also, I'm an introvert. To know more about me, just simply have a talk with me or you can go trought my website down here.<br/><br/>
 [![Website](https://img.shields.io/website?label=richapurba.com&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
-
 
 
 ❤️‍🩹 I'm proud to be a Christian. Jesus had chose me to become a scientist. Yes, I saw Him. I did..<br/>
@@ -31,14 +31,14 @@ I am an Astrophysicist and Data Scientist from Indonesia. Currently looking for 
 💎 I'm always eager to learn something new. 🔬 In fact, I'm a crazy person who always curious about almost everything<br/>
 📖 I really love reading books. I have tons of them in my room and read them daily<br/>
 🏊 I can't swim at the water; but if you ask me to swim on the ground, well, absolutely I can 😂<br/>
+ 
+<br>
+<br>
+<a href="#">
+    <img align="left" src="img/Polaroid.png" width="300"/>
+</a>
 
-
-<div id="header" align="center">
-    <img src="img/Polaroid.png" width="200"/>
-</div>
-
-### Project Lists:
-
+### Data Science Project List 📂 :
 [![Website](https://img.shields.io/website?label=auto-Office&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
 [![Website](https://img.shields.io/website?label=customer-Churn&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
 [![Website](https://img.shields.io/website?label=Google-Clone&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
