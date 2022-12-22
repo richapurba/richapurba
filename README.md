@@ -45,7 +45,6 @@ I am an Astrophysicist and Data Scientist from Indonesia. Currently looking for 
 [![Website](https://img.shields.io/website?label=auto-Office&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
 [![Website](https://img.shields.io/website?label=customer-Churn&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
 [![Website](https://img.shields.io/website?label=Google-Clone&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
-[![Website](https://img.shields.io/website?label=drone-programming&style=for-the-badge&url=https%3A%2F%2Frichapurba.github.io)](https://richapurba.github.io)
 
 
 ### Languages and Tools 💻 :
