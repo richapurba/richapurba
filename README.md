@@ -27,7 +27,7 @@ I am an Astrophysicist and Data Scientist from Indonesia. Currently looking for 
 
 
 ❤️‍🩹 I'm proud to be a Christian. Jesus had chose me to become a scientist. Yes, I saw Him. I did..<br/>
-📚 I'm currently working towards my BEng in Robotics degree from German International University<br/>
+📚 I'm currently working towards my Professional Certificate in Data Science from ITBox Indonesia<br/>
 💎 I'm always eager to learn something new. 🔬 In fact, I'm a crazy person who always curious about almost everything<br/>
 📖 I really love reading books. I have tons of them in my room and read them daily<br/>
 🏊 I can't swim at the water; but if you ask me to swim on the ground, well, absolutely I can 😂<br/>
