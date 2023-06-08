@@ -13,7 +13,7 @@
   <a target="_blank" href="mailto:richaulivia@gmail.com">
     <img src="https://img.shields.io/badge/Email-c7161f?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
-  <a target="_blank" href="https://t.co/richaulivia">
+  <a target="_blank" href="https://t.me/richapurba">
     <img src="https://img.shields.io/badge/Telegram-2a92fa?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
