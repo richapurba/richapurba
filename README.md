@@ -9,9 +9,7 @@
   <a target="_blank" href="https://linkedin.com/in/richapurba">
     <img src="https://img.shields.io/badge/LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a target="_blank" href="https://instagram.com/richaulivia">
-    <img src="https://img.shields.io/badge/Instagram-f5169c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+
   <a target="_blank" href="mailto:richaulivia@gmail.com">
     <img src="https://img.shields.io/badge/Email-c7161f?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
